@@ -375,3 +375,4 @@
 - [Device Frames](https://deviceframes.com/templates)
 - [Code images](https://www.ray.so/)
 - [Competitive programming](https://codeforces.com/?locale=en)
+- [FaviconDL - download any site's favicon in every size](https://favicondl.com/)
